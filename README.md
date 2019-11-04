@@ -1,6 +1,6 @@
 # SOEN6841_SPM
 Venting Your thoughts
-#--------------------------------------------------------------#
+
 Kirti Dhir  40094627
 Basant Gera  40082433
 Sneha Sarkar 40070778
